@@ -12,4 +12,3 @@ The author does not condone or support the use of this code for malicious purpos
 ## Structure
 - All code that could be used for malicious purposes has been replaced with pseudocode or comments.
 - No binaries or compiled files are included.
-- This repository is safe for upload to GitHub and for educational review. 
